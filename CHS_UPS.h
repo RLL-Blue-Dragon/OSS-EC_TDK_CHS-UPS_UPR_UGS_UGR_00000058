@@ -1,5 +1,5 @@
 // License       : License.txt
-// Specifications: Spec-CHS-UPS-UPR-UGS-UGR.pdf
+// Specifications: Spec-CHS-UPS_UPR_UGS_UGR.pdf
 /*-- File Header Comment Start -----------------------------------------------*/
 // File Name        : CHS_UPS.h
 // Reason for change: 01.00.00 : 28/10/'22 : New Release

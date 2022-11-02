@@ -1,11 +1,11 @@
-# OSS-EC_TDK_CHS_UPS_UPR_UGS_UGR_00000058
+# OSS-EC_TDK_CHS-UPS_UPR_UGS_UGR_00000058
 
 We provide a library of TDK's CHS-UPS, CHS-UPR, CHS-UGS, CHS-UGR humidity sensor.
 We also provide OSS for many other components from the [OSS-EC site](https://oss-ec.com/).
 
 # [Datasheet](https://product.tdk.com/system/files/dam/doc/product/sensor/sensor/humidity/catalog/sensor_humidity_chs_en.pdf)
 
-# [component software specifications](https://oss-ec.com/wp-content/uploads/2022/10/Spec-CHS-UPS-UPR-UGS-UGR.pdf)
+# [component software specifications](https://oss-ec.com/wp-content/uploads/2022/11/Spec-CHS-UPS_UPR_UGS_UGR.pdf)
 
 # BSL-00000058 Features
 - Component type         ADC component
